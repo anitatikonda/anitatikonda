@@ -1,7 +1,7 @@
 - Hi, I’m @anitatikonda
 - I’m interested in Industrial Engineering
 - I’m currently learning my Bachelor of Science degree
-- I’m looking to collaborate on Python projects, SQL, entity diagramming
+- I’m looking to collaborate on Python projects, SQL
 - How to reach me is at atatikonda3@gatech.edu
 
 <!---
