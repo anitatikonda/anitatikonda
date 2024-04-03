@@ -1,8 +1,8 @@
 - Hi, I’m @anitatikonda
-- I’m interested in Industrial Engineering (IE)
+- I am a Junior at Georgia Institute of Technology
+- I’m working for my B.S. in Industrial Engineering and a minor in Economics (MESA)
 - I previously worked for United Airlines as an Analytics & Innovation (Ai) Intern
-- I’m currently working for my Bachelor of Science degree
-- I’m looking to collaborate on Python projects, SQL, HTML/CSS/Java
+- I’m skilled in Python, SQL, HTML, Java
 - Reach me by emailing atatikonda3@gatech.edu
 
 <!---
