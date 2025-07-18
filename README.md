@@ -1,11 +1,1 @@
-- Hi, I’m @anitatikonda
-- I am a Junior at Georgia Institute of Technology
-- I’m working for my B.S. in Industrial Engineering and a minor in Economics (MESA)
-- I previously worked for United Airlines as an Analytics & Innovation (Ai) Intern
-- I’m skilled in Python, SQL, HTML, Java
-- Reach me by emailing anitatikonda@gmail.com
-
-<!---
-anitatikonda/anitatikonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! My name is Ani Tatikonda, a recent Summa Cum Laude graduate from the Georgia Institute of Technology (Go Jackets!) I obtained my Bachelor of Science in Industrial & Systems Engineering with a concentration in Analytics & Data Science, as well as a minor in Microeconomics of Strategic Analysis. I have made data-driven insights that have transformed jet boarding processes nationwide while working at United Airlines, and I have also led a large consultant team to digitally transform an airline while working at CapTech Ventures. My hobbies include fencing, escape rooms, gaming, 100% Steam games, and traveling - I can proudly say that as of June 2025, I have seen the top of the world (Mount Everest)! Please reach out to me at business@ani-tatikonda.com for any inquiries.
